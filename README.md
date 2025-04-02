@@ -17,6 +17,9 @@ The **Stock Heatmap Dashboard** is a dynamic and interactive web application tha
 - **API:** Polygon API
 - **Version Control:** Git & GitHub
 
+## 🔥 Deployment link
+- **https://stock-heatmap-dashboard.vercel.app/**.
+
 ## ⚡ Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
